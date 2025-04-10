@@ -1,101 +1,102 @@
-## Sistema de Gestión Académica para Centro de Formación
+# Sistema de Gestión Académica para Centro de Formación
 
 
-#### 📚 Descripción del Proyecto
+#### 📚 **Descripción del Proyecto**
 
-    _Este proyecto consiste en el diseño e implementación de una base de datos relacional completa 
-    para gestionar toda la información académica de un centro de formación especializado en bootcamps tecnológicos._
-    El sistema integra datos sobre:
+_Este proyecto consiste en el **diseño e implementación de una base de datos relacional** completa 
+para gestionar toda la información académica de un centro de formación especializado en bootcamps tecnológicos.
+El sistema integra datos sobre:_
 
-#### 👥 Comunidad Educativa
-    Alumnos: Información personal (nombres, apellidos, teléfonos, emails), bootcamp matriculado, promoción y proyectos realizados
+### 👥 **Comunidad Educativa**
 
-    Profesores: Datos personales, bootcamps asignados y especialización
+* **Alumnos:** Información personal (nombres, apellidos, teléfonos, emails), bootcamp matriculado, promoción y proyectos realizados
 
-    Teaching Assistants (TAs): Información de contacto y relación con los alumnos
+* **Profesores:** Datos personales, bootcamps asignados y especialización
 
-#### 🚀 Programas Formativos
-    Bootcamps: Detalles completos de cada programa educativo
+* **Teaching Assistants (TAs):** Información de contacto y relación con los alumnos
 
-    Modalidades: Presencial u Online
+### 🚀 Programas Formativos
+* **Bootcamps:** Detalles completos de cada programa educativo
 
-    Jornadas: Full-Time o Part-Time
+* **Modalidades:** Presencial u Online
 
-    Promociones: Organizadas por fechas de inicio/fin
+* **Jornadas:** Full-Time o Part-Time
 
-#### 📝 Evaluación Académica
+* **Promociones:** Organizadas por fechas de inicio/fin
 
-    Proyectos: Trabajos desarrollados por los alumnos
+### 📝 Evaluación Académica
 
-    Calificaciones: Sistema de evaluación (Apto/No Apto)
+* **Proyectos:** Trabajos desarrollados por los alumnos
 
-    Seguimiento: Rendimiento académico por alumno
+* **Calificaciones:** Sistema de evaluación (Apto/No Apto)
 
-#### 🏫 Infraestructura
+* **Seguimiento:** Rendimiento académico por alumno
 
-    Centros: Ubicaciones físicas donde se imparten los bootcamps
+### 🏫 Infraestructura
 
-    Recursos: Asignación de espacios y materiales
+* **Centros:** Ubicaciones físicas donde se imparten los bootcamps
 
-#### 🔍 Objetivos del Proyecto
-    Centralizar toda la información académica en un único sistema integrado
+* **Recursos:** Asignación de espacios y materiales
 
-    Facilitar el seguimiento del progreso de los alumnos
+### 🔍 Objetivos del Proyecto
+* Centralizar toda la información académica en un único sistema integrado
 
-    Optimizar la asignación de profesores y recursos
+* Facilitar el seguimiento del progreso de los alumnos
 
-    Generar informes automáticos sobre rendimiento académico
+* Optimizar la asignación de profesores y recursos
 
-    Mejorar la comunicación entre alumnos, profesores y administración
+* Generar informes automáticos sobre rendimiento académico
 
-#### 🛠 Herramientas Utilizadas
+* Mejorar la comunicación entre alumnos, profesores y administración
 
-    Para el desarrollo de este proyecto se emplearon las siguientes tecnologías:
+### 🛠 Herramientas Utilizadas
 
-    Diseño: DBdiagram para el modelo entidad-relación
+Para el desarrollo de este proyecto se emplearon las siguientes tecnologías:
 
-    Base de Datos: PostgreSQL como sistema gestor
+* **Diseño:** DBdiagram para el modelo entidad-relación
 
-    Gestión: PgAdmin4 para administración
+* **Base de Datos:** PostgreSQL como sistema gestor
 
-    Procesamiento: Python para transformación de datos
+* **Gestión:** PgAdmin4 para administración
 
-    Documentación: Presentaciones detalladas del proceso y resultados
+* **Procesamiento:** Python para transformación de datos
 
-#### 📊 Resultados Obtenidos
+* **Documentación:** Presentaciones detalladas del proceso y resultados
 
-    El sistema implementado permite:
+### 📊 Resultados Obtenidos
 
-    Consultar el historial académico completo de cualquier alumno
+El sistema implementado permite:
 
-    Visualizar los proyectos realizados y sus calificaciones
+* Consultar el **historial académico** completo de cualquier alumno
 
-    Gestionar eficientemente los recursos del centro
+* Visualizar los **proyectos realizados** y sus calificaciones
 
-    Realizar análisis comparativos entre promociones
+* **Gestionar eficientemente** los recursos del centro
 
-    Generar estadísticas sobre rendimiento por bootcamp
+* Realizar **análisis comparativos** entre promociones
+
+* **Generar estadísticas** sobre rendimiento por bootcamp
 
 #### 📌 Aplicaciones Prácticas
 
-    Esta base de datos sirve como:
+Esta base de datos sirve como:
 
-    Herramienta administrativa: Para la gestión diaria del centro
+* **Herramienta administrativa:** Para la gestión diaria del centro
 
-    Sistema de información: Para consultas rápidas sobre alumnos y profesores
+* **Sistema de información:** Para consultas rápidas sobre alumnos y profesores
 
-    Plataforma analítica: Para evaluar el rendimiento de los programas
+* **Plataforma analítica:** Para evaluar el rendimiento de los programas
 
-    Base para decisiones: Para planificar futuros bootcamps y asignación de recursos
+* **Base para decisiones:** Para planificar futuros bootcamps y asignación de recursos
     
-    #### 🌟 Beneficios
+#### 🌟 Beneficios
 
-    Eficiencia: Reducción de tiempo en gestión administrativa
+* **Eficiencia:** Reducción de tiempo en gestión administrativa
 
-    Precisión: Minimización de errores en datos académicos
+* **Precisión:** Minimización de errores en datos académicos
 
-    Accesibilidad: Información disponible en cualquier momento
+* **Accesibilidad:** Información disponible en cualquier momento
 
-    Escalabilidad: Capacidad para crecer con las necesidades del centro
+* Escalabilidad: Capacidad para crecer con las necesidades del centro
 
-    Seguridad: Protección de datos sensibles de la comunidad educativa
+* Seguridad: Protección de datos sensibles de la comunidad educativa
