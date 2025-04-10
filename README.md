@@ -5,7 +5,7 @@
 
 _Este proyecto consiste en el **diseño e implementación de una base de datos relacional** completa 
 para gestionar toda la información académica de un centro de formación especializado en bootcamps tecnológicos.
-El sistema integra datos sobre:_
+El sistema integra datos sobre:_   
 
 ### 👥 **Comunidad Educativa**
 
